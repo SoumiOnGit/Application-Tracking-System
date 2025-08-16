@@ -47,10 +47,6 @@ It simulates both:
 
 ---
 
-## 📸 Demo Screenshot
-*(Add a screenshot or gif of your app running here)*  
-
----
 
 ## 🔑 Example Output
 
