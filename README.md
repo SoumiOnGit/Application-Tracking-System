@@ -27,9 +27,9 @@ It simulates both:
 ---
 
 ## 📂 Project Structure
-├── app.py              # Main Streamlit app
-├── requirements.txt    # Python dependencies
-├── .env                # Environment variables (API keys)
+├── app.py              # Main Streamlit app  
+├── requirements.txt    # Python dependencies  
+├── .env                # Environment variables (API keys)  
 └── README.md           # Project documentation
 
 
