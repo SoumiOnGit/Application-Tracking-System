@@ -2,3 +2,9 @@ streamlit
 google-generativeai
 python-dotenv
 pdf2image
+streamlit
+pdf2image
+Pillow
+google-generative-ai
+PyPDF2
+python-dotenv
